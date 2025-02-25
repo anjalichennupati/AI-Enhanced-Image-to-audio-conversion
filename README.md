@@ -6,7 +6,7 @@
 This project presents a novel approach to secure multimedia data sharing by integrating image-to-audio encryption with AI-enhanced data-hiding techniques. It transforms static images into meaningful audio representations while leveraging adversarial training and reinforcement learning for enhanced security. The framework ensures robust protection against unauthorized access and tampering, offering new possibilities in multimedia communication, artistic expression, and data security. Below is an overview of the analysis, along with sample outputs and results. This project was done in Nov' 2023.
 
 
-
+---
 
 
 ## Publication
@@ -14,6 +14,8 @@ This project presents a novel approach to secure multimedia data sharing by inte
 - This paper was presented in the “2024 15th International Conference on Computing Communication and Networking Technologies (ICCCNT)”
 - Link to the IEEE Publication : https://ieeexplore.ieee.org/abstract/document/10725794
 - This paper is currently being pushed further for a journal publication
+
+---
 
 
 ## Block Diagram
@@ -27,6 +29,9 @@ This project presents a novel approach to secure multimedia data sharing by inte
 <p align="center">
   <img src="https://i.postimg.cc/HW2xL7pD/Picture2.jpg" alt="App Screenshot" width="600">
 </p>
+
+
+---
 
 ## Features
 
@@ -45,7 +50,7 @@ This project presents a novel approach to secure multimedia data sharing by inte
 - **High Security**: AI-enhanced data hiding, adversarial training, and cryptographic principles make brute-force attacks impractical. The system achieves high PSNR (>40 dB) and SSIM (>0.95), ensuring quality preservation while maintaining strong resistance to detection and tampering.
 
 
-
+---
 
 ## Tech Stack
 
@@ -54,6 +59,7 @@ This project presents a novel approach to secure multimedia data sharing by inte
 - **Pydub** – Audio signal processing
 - **Matplotlib & Seaborn** – Plotting loss curves, comparisons, and visualizing training results.
 
+---
 
 ## Installation
 
@@ -65,7 +71,7 @@ This project presents a novel approach to secure multimedia data sharing by inte
 3. `Hide_Net.py` and `Reveal_net.py` contain the neueral network architectures.
 
 
-
+---
 
 
 
