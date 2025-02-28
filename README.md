@@ -5,6 +5,7 @@
 
 This project presents a novel approach to secure multimedia data sharing by integrating image-to-audio encryption with AI-enhanced data-hiding techniques. It transforms static images into meaningful audio representations while leveraging adversarial training and reinforcement learning for enhanced security. The framework ensures robust protection against unauthorized access and tampering, offering new possibilities in multimedia communication, artistic expression, and data security. Below is an overview of the analysis, along with sample outputs and results. This project was done in Nov' 2023.
 
+[![forthebadge](https://forthebadge.com/images/badges/made-with-python.svg)](https://forthebadge.com)
 
 ---
 
